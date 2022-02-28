@@ -4,3 +4,4 @@ if you have any questions, please go to the issues tab and ask the question from
 
 Update: 2/25/22 (friday)
 Just finished most of the global hacks and am working on importing the scripts into new gamemode specific folders.
+CREDIT TO Blooket-Dude for the tokens and xp, as well as the sell dupe blooks hack
