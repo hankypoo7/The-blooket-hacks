@@ -10,4 +10,4 @@ Just finished most of the global hacks and am working on importing the scripts i
 @Blooket-Dude is letting me use the tokens and xp hack, as well as the sell dupe blooks hack. 
 
 
-If either one of them need to be updated ask either @Hankypoo7 or @Blooket-dude
+If any of the hacks need to be updated ask either @Hankypoo7 or @Blooket-dude
