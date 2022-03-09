@@ -1,4 +1,8 @@
+WARNING WHILE USING THE HACKS IT IS POSSIBLE YOU MAY BE BANNED. USE AT YOUR OWN RISK. 
+I am not responsible for if you get in any trouble while using theese hacks.
+
 # Blooket-hacks-Hankypoo7-
+
 blooket hacks
 if you have any questions, please go to the issues tab and ask the question from there.
 
