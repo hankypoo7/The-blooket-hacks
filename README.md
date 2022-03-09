@@ -1,4 +1,4 @@
-WARNING WHILE USING THE HACKS IT IS POSSIBLE YOU MAY BE BANNED. USE AT YOUR OWN RISK. 
+WARNING WHILE USING THE HACKS IT IS POSSIBLE YOU MAY BE POSSIBLY GET BANNED. USE AT YOUR OWN RISK. 
 I am not responsible for if you get in any trouble while using theese hacks.
 
 # Blooket-hacks-Hankypoo7-
