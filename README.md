@@ -16,4 +16,6 @@ Thank you to @ZasticBradyn for the remove gliz box hack
 
 Thank you to @gbasil for letting me use the hack menu hack
 
+Thank you to @Blooket-dood for leting me use the spam open boxes hack
+
 If any of the hacks need to be updated ask either @Hankypoo7 or @Snowflake-Coder-H2o
