@@ -12,7 +12,12 @@ Thank you to @Snowflake-Coder-H2o for letting me use the sell dupe blooks and th
 
 Thank you to @Basil for letting me use the hack menu hack
 
-Thank you to @ZasticBradyn for the remove gliz box hack, as well as the bypass hack, the tokens and xp hack, and the get every answer correct hack.
+Thank you to @ZasticBradyn for:
+the remove gliz box hack
+the bypass hack
+the tokens and xp hack
+the get every answer correct hack
+the get all blooks in game hack
 
 Thank you to @gbasil for letting me use the hack menu hack
 
