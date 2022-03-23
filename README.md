@@ -16,6 +16,8 @@ the tokens and xp hack
 the get every answer correct hack
 the get all blooks in game hack
 
+Thank you to @lol-jude for the get every answer correct hack
+
 Thank you to @gbasil for letting me use the hack menu hack
 
 Thank you to @Blooket-dood for leting me use the spam open boxes hack
