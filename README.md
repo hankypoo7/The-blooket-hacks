@@ -1,3 +1,7 @@
+Go check out @Hankypoo7 and @Snowflake-Coder-H2o´s repo. 
+
+https://github.com/Snowflake-Coder-H2o/Organized-blooket-Hacks
+
 WARNING WHILE USING THE HACKS IT IS POSSIBLE YOU MAY GET BANNED. USE AT YOUR OWN RISK. 
 I am not responsible for if you get in any trouble while using theese hacks.
 
