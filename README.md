@@ -1,4 +1,4 @@
-some of theese hacks, like the gamemode ones, are from gliz. GAMEMODE HACKS ARE NOT MINE.
+Some of these hacks are from Gliz. Aka Schoolcheats.net I dont know which ones but most are from Zastic and Snowflake
 
 THANK YOU GUYS SO MUCH WE FINNALLY HIT 12 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ It wouldnt be possible without you guys.  :)
 
