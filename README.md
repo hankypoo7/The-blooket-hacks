@@ -1,3 +1,6 @@
+ATTENTION: IMPORTANT
+In 24 hours this respository will be changed to private. If you want to still use theese hacks, make sure to bookmark this.
+
 THANK YOU GUYS SO MUCH WE FINNALLY HIT 12 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ It wouldnt be possible without you guys.  :)
 
 Go check out @Hankypoo7 and @Snowflake-Coder-H2o´s repo. 
