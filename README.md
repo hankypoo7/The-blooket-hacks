@@ -2,7 +2,7 @@ Some of these hacks are from Gliz. Aka Schoolcheats.net I dont know which ones b
 
 THANK YOU GUYS SO MUCH WE FINNALLY HIT 12 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ It wouldnt be possible without you guys.  :)
 
-Go check out @Hankypoo7 and @Snowflake-Coder-H2o´s repo. 
+Go check out @Hankypoo7 and @Snowflake-Coder-H2o´s repo.  
 
 https://github.com/Snowflake-Coder-H2o/Organized-blooket-Hacks
 
