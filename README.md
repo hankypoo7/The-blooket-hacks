@@ -1,4 +1,4 @@
-THANK YOU GUYS SO MUCH WE FINNALLY HIT 10 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ It wouldnt be possible without you guys.  :)
+THANK YOU GUYS SO MUCH WE FINNALLY HIT 12 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ It wouldnt be possible without you guys.  :)
 
 Go check out @Hankypoo7 and @Snowflake-Coder-H2o´s repo. 
 
