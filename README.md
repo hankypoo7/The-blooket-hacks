@@ -22,4 +22,4 @@ the get all blooks in game hack
 
 Thank you to @lol-jude for the get every answer correct hack and spam open boxes hack
 
-If any of the hacks need to be updated ask either @Hankypoo7 or @Snowflake-Coder-H2o
+If any of the hacks need to be updated ask either @Hankypoo7 or @Snowflake-Coder-H2o or @12345677777777
