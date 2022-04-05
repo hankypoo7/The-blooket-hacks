@@ -1,7 +1,7 @@
 # Blooket Hacks
 Some of these hacks are from Gliz, aka Schoolcheats.net. I dont know which ones exactly but most are from Zastic and Snowflake.
 
-THANK YOU GUYS SO MUCH WE FINNALLY HIT 14 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ It wouldn't be possible without you guys.  :)
+THANK YOU GUYS SO MUCH WE FINNALLY HIT 15 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ It wouldn't be possible without you guys.  :)
 
 Go check out @Hankypoo7 and @Snowflake-Coder-H2o´s repo here: https://github.com/Snowflake-Coder-H2o/Organized-blooket-Hacks
 
