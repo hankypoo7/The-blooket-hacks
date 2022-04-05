@@ -9,8 +9,6 @@ I AM FINALLY BACK FROM VACATION. I can help more often now :)
 if you have any questions, please go to the Issues tab and ask the question there.
 
 
-
-
 ## Warning
 While using these hacks, there is a chance you can get banned. Use these at your own risk.
 I am not responsible for if you get in any trouble while using theese hacks.
