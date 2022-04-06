@@ -27,5 +27,6 @@ Thank you to **@ZasticBradyn** for:
 Thank you to **@lol-jude** for:
 - Answer All Questions Correctly / AnswerBot Hack
 - Spam Open Boxes Hack
+- Set weight/fishing_frenzy hack
 
 If any of the hacks need to be updated ask either **@Hankypoo7**, **@Snowflake-Coder-H2o**, or **@12345677777777**
