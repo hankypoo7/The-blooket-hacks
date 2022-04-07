@@ -5,10 +5,6 @@ THANK YOU GUYS SO MUCH WE FINNALLY HIT 17 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐�
 
 Go check out @Hankypoo7 , @ZasticBraydn and @Snowflake-Coder-H2o´s repo here: [Our Repo](https://github.com/Snowflake-Coder-H2o/Organized-blooket-Hacks)
 
-I AM FINALLY BACK FROM VACATION. I can help more often now :)
-if you have any questions, please go to the Issues tab and ask the question there.
-
-
 ## Warning
 While using these hacks, there is a chance you can get banned. Use these at your own risk.
 I am not responsible for if you get in any trouble while using theese hacks.
