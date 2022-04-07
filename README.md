@@ -3,7 +3,7 @@ Some of these hacks are from Gliz, aka Schoolcheats.net. I dont know which ones 
 
 THANK YOU GUYS SO MUCH WE FINNALLY HIT 17 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ It wouldn't be possible without you guys.  :)
 
-Go check out @Hankypoo7 and @Snowflake-Coder-H2o´s repo here: [Our Repo](https://github.com/Snowflake-Coder-H2o/Organized-blooket-Hacks)
+Go check out @Hankypoo7 , @ZasticBraydn and @Snowflake-Coder-H2o´s repo here: [Our Repo](https://github.com/Snowflake-Coder-H2o/Organized-blooket-Hacks)
 
 I AM FINALLY BACK FROM VACATION. I can help more often now :)
 if you have any questions, please go to the Issues tab and ask the question there.
