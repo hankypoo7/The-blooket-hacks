@@ -25,4 +25,4 @@ Thank you to **@lol-jude** for:
 - Spam Open Boxes Hack
 - Set weight/fishing_frenzy hack
 
-If any of the hacks need to be updated ask either **@Hankypoo7**, **@Snowflake-Coder-H2o**, **@12345677777777**, or  **@isthatyourfaceoryourassicanttell**
+If any of the hacks need to be updated ask either **@Hankypoo7**, **@Snowflake-Coder-H2o**, or  **@isthatyourfaceoryourassicanttell**
