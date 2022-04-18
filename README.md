@@ -5,7 +5,8 @@ THANK YOU GUYS SO MUCH WE FINNALLY HIT 16 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐�
 Due to someone being Petty about us removing them as a collaberator they had to tell everyone to unstar us. So were back at 15. Sadly. 
 Go check out @Hankypoo7 , @ZasticBraydn and @Snowflake-Coder-H2o´s repo here: [Our Repo](https://github.com/Snowflake-Coder-H2o/Organized-blooket-Hacks)
 
-##HOW TO USE
+HOW TO USE:
+
 go to the url bar when you are in blooket
 ![Screenshot 2022-04-18 9 42 25 AM](https://user-images.githubusercontent.com/100436822/163824930-26969fa2-b8dd-4e09-bc0a-16a815298f30.png)
 type   "  javascript:  "
