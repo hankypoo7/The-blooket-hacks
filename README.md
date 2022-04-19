@@ -27,7 +27,7 @@ Thank you to **@Snowflake-Coder-H2o** for:
 - Sell Duplicate Blooks Hack
 
 
-Thank you to **@ZasticBradyn** for:
+Thank you to **@notzastix** for:
 - Bypass Hack
 - Tokens and XP Hack
 - Get all Blooks Hack
