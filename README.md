@@ -1,4 +1,5 @@
 # Blooket Hacks
+To vote what your favorite blooket hacks are, go to the discussions tab and vote on your favorite hack from the poll.
 Some of these hacks are from Gliz, aka Schoolcheats.net. I dont know which ones exactly but most are from Zastic and Snowflake.
 
 I have finnaly somewhat made a google site. But I will be updateing this whenever I get new hacks. [Site](https://sites.google.com/pasdknights.org/blooket-blacket-hacks/hacks-for-blooket)
