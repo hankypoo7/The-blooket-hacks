@@ -1,18 +1,25 @@
 # Blooket Hacks
+
+
 To vote what your favorite blooket hacks are, go to the discussions tab and vote on your favorite hack from the poll.
+
+
 Some of these hacks are from Gliz, aka Schoolcheats.net. I dont know which ones exactly but most are from Zastic and Snowflake.
 
 I have finnaly somewhat made a google site. But I will be updateing this whenever I get new hacks. [Site](https://sites.google.com/pasdknights.org/blooket-blacket-hacks/hacks-for-blooket)
+
 
 THANK YOU GUYS SO MUCH WE FINNALLY HIT 17 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ It wouldn't be possible without you guys.  :)
 Due to someone being Petty about us removing them as a collaberator they had to tell everyone to unstar us. So were back at 15. Sadly. 
 Go check out @Hankypoo7 , @Notzastix and @Snowflake-Coder-H2o´s repo here: [Our Repo](https://github.com/Snowflake-Coder-H2o/Organized-blooket-Hacks)
 
+
 HOW TO USE:
+
 
 go to the url bar when you are in blooket
 ![Screenshot 2022-04-18 9 42 25 AM](https://user-images.githubusercontent.com/100436822/163824930-26969fa2-b8dd-4e09-bc0a-16a815298f30.png)
-type   "  javascript:  "
+type   "  **javascript:**  "
 then paste your code in
 it should look like this
 ![Screenshot 2022-04-18 9 45 50 AM](https://user-images.githubusercontent.com/100436822/163825308-ed7728b2-e31f-4f0a-826a-5f43e30cbc72.png)
