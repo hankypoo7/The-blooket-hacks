@@ -9,7 +9,7 @@ Some of these hacks are from Gliz, aka Schoolcheats.net. I dont know which ones 
 I have finnaly somewhat made a google site. But I will be updateing this whenever I get new hacks. [Site](https://sites.google.com/pasdknights.org/blooket-blacket-hacks/hacks-for-blooket)
 
 
-THANK YOU GUYS SO MUCH WE FINNALLY HIT 18 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ It wouldn't be possible without you guys.  :)
+THANK YOU GUYS SO MUCH WE FINNALLY HIT 20 STARS.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ It wouldn't be possible without you guys.  :)
 
 
 HOW TO USE:
