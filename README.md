@@ -1,10 +1,11 @@
-# Blooket Hacks
+# Blooket Hacks (Blooket-hacks-Hankypoo7-)
+**WARNING: YOU COULD GET BANNED FOR USING ANY OF THESE HACKS! NONE OF US ARE RESPONSIBLE FOR THIS HAPPENING. WE CANNOT UNBAN YOUR ACCOUNT.**
+## Announcements:
+- To vote your favorite hack, visit the Discussions tab and find the [poll](https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/discussions/59).
 
-To vote your favorite hack, visit the Discussions tab and find the [poll](https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/discussions/59).
+- There is a [Google Site](https://sites.google.com/pasdknights.org/blooket-blacket-hacks) (with a few scripts).
 
-I have finnaly somewhat made a [Google Site](https://sites.google.com/pasdknights.org/blooket-blacket-hacks) (with a few scripts).
-
-**THANK YOU GUYS SO MUCH! WE FINNALLY HIT 20+ STARS! ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ It wouldn't be possible without you guys.  :)**
+- WE HAVE OVER 20 STARS! ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ Thank you so much, it wouldn't be possible without you guys.  :)
 
 ## Using these scripts:
 
@@ -17,12 +18,7 @@ The URL should look like this:
 ![Screenshot 2022-04-18 9 45 50 AM](https://user-images.githubusercontent.com/100436822/163825308-ed7728b2-e31f-4f0a-826a-5f43e30cbc72.png)
 (the text in the middle)
 5. Click 'Enter'
-6. For LVIE GAMES, you are done. For GLOBAL SCRIPTS (ex. preformed on Dashboard), refresh your page.
-
-## Warning
-While using these hacks, there is a chance you can get banned. Use these at your own risk.
-I am not responsible for if you get in any trouble while using these hacks.
-
+6. For LIVE GAMES, you are done. For GLOBAL SCRIPTS (ex. preformed on Dashboard), refresh your page.
 
 ## Credits
 Thank you to **@Snowflake-Coder-H2o** for:
@@ -36,8 +32,8 @@ Thank you to **@NotZastix** for:
 Thank you to **@lol-jude** for:
 - Answer All Questions Correctly / AnswerBot Hack
 - Spam Open Boxes Hack
-- Set weight/fishing_frenzy hack
+- Set weight/Fishing Frenzy hack
 
-Some of these hacks are from Gliz, aka [schoolcheats.net](https://schoolcheats.net). I'm unsure of which ones exactly.
+Thank you to **[schoolcheats.net](https://schoolcheats.net)** for a few other hacks.
 
-If any of the hacks need to be updated ask either **@Hankypoo7**, **@Snowflake-Coder-H2o**, or  **@isthatyourfaceoryourassicanttell**
+If any of the hacks need to be updated, ask either **@Hankypoo7**, **@Snowflake-Coder-H2o**, or  **@isthatyourfaceoryourassicanttell**
