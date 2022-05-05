@@ -1,3 +1,4 @@
+TODAY IS MY BIRTHDAY!!! I might be taking today off to celebrate with friends and family, but I will be back tomorrow
 # Blooket Hacks (Blooket-hacks-Hankypoo7-)
 **WARNING: YOU COULD GET BANNED FOR USING ANY OF THESE HACKS! NONE OF US ARE RESPONSIBLE FOR THIS HAPPENING. WE CANNOT UNBAN YOUR ACCOUNT.**
 ## Announcements:
