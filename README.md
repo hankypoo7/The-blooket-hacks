@@ -9,14 +9,14 @@
 ## Using these scripts:
 
 1. Find the URL bar when you are on the Blooket page *(Gold Quest Chest ESP, for example, would be placed on the game. Global scripts are global.)*
-![Screenshot 2022-04-18 9 42 25 AM](https://user-images.githubusercontent.com/100436822/163824930-26969fa2-b8dd-4e09-bc0a-16a815298f30.png)
-2. Delete everything currently in the bar (DON'T CLICK ENTER).
+<img width="1440" alt="Screen Shot 2022-05-06 at 7 55 25 PM" src="https://user-images.githubusercontent.com/101288516/167229005-5facff5d-1c5d-4e10-a2d3-b17d8aae21ad.png">
+2. Delete everything currently in the bar (DON'T CLICK ENTER).<br>
 3. Type   "  **javascript:**  "
+<img width="1440" alt="Screen Shot 2022-05-06 at 7 55 35 PM" src="https://user-images.githubusercontent.com/101288516/167229025-23ad6a18-e2aa-4624-a1f3-3261ca9fc3bf.png">
 4. Paste the script in.
-The URL should look like this:
-![Screenshot 2022-04-18 9 45 50 AM](https://user-images.githubusercontent.com/100436822/163825308-ed7728b2-e31f-4f0a-826a-5f43e30cbc72.png)
-(the text in the middle)
-5. Click 'Enter'
+The URL should something look like this:
+<img width="1440" alt="Screen Shot 2022-05-06 at 7 55 50 PM" src="https://user-images.githubusercontent.com/101288516/167229046-c7b35aef-b362-47a8-80f8-cfeba4c1f6f3.png">
+5. Click 'Enter'<br>
 6. For LIVE GAMES, you are done. For GLOBAL SCRIPTS (ex. preformed on Dashboard), refresh your page.
 
 ## Credits
