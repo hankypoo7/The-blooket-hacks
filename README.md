@@ -1,11 +1,9 @@
-TODAY IS MY BIRTHDAY!!! I might be taking today off to celebrate with friends and family, but I will be back tomorrow
 # Blooket Hacks (Blooket-hacks-Hankypoo7-)
 **WARNING: YOU COULD GET BANNED FOR USING ANY OF THESE HACKS! NONE OF US ARE RESPONSIBLE FOR THIS HAPPENING. WE CANNOT UNBAN YOUR ACCOUNT.**
 ## Announcements:
+- @Hankypoo7, the owner of this collection, just had their birthday! Give them a late thanks in the Discussions.
 - To vote your favorite hack, visit the Discussions tab and find the [poll](https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/discussions/59).
-
 - There is a [Google Site](https://sites.google.com/pasdknights.org/blooket-blacket-hacks) (with a few scripts).
-
 - WE HAVE OVER 20 STARS! ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ Thank you so much, it wouldn't be possible without you guys.  :)
 
 ## Using these scripts:
