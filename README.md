@@ -31,12 +31,14 @@ Thank you to **@Snowflake-Coder-H2o** for:
 - Sell Duplicate Blooks Hack
 
 Thank you to **@NotZastix** for:
-- Bypass Hack
 - Get all Blooks Hack
 
 Thank you to **@lol-jude** for:
 - Answer All Questions Correctly / AnswerBot Hack
 - Set weight/Fishing Frenzy hack
+
+Thank you to **@BilbertRules** for:
+- Host Anticheat Hack
 
 Thank you to **[schoolcheats.net](https://schoolcheats.net)** for a few other hacks (Include but are not limited to: Token/XP, Spam Boxes)
 
