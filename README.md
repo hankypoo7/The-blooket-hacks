@@ -1,5 +1,11 @@
 # Blooket Hacks (Blooket-hacks-Hankypoo7-)
-**WARNING: YOU COULD GET BANNED FOR USING ANY OF THESE HACKS! NONE OF US ARE RESPONSIBLE FOR THIS HAPPENING. WE CANNOT UNBAN YOUR ACCOUNT.**
+## URGENT: GETTING BANNED
+Using these hacks may result in a month-long or permanent ban from Blooket.
+IF YOU GET BANNED, IT ISN'T OUR FAULT.
+
+If you missed this and are currently banned, we can't actually do anything (there is no script).
+Scripts can only interact with the site in certain ways, and unbanning isn't possible with one.
+
 ## Announcements:
 - Schoolcheats IP logger: This is UNCONFIRMED but @VillainsRule4000 is looking into it.<br>
 UPDATE: Schoolcheats does use your IP. Whether these IPs are logged through hacks or website access is unknown. [Privacy Policy - Schoolcheats](https://schoolcheats.net/privacy/#:~:text=and%20prevent%20fraud-,Log%20Files,-schoolcheats.net%20follows)
