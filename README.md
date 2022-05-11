@@ -1,8 +1,9 @@
 # Blooket Hacks (Blooket-hacks-Hankypoo7-)
 **WARNING: YOU COULD GET BANNED FOR USING ANY OF THESE HACKS! NONE OF US ARE RESPONSIBLE FOR THIS HAPPENING. WE CANNOT UNBAN YOUR ACCOUNT.**
 ## Announcements:
-- @Hankypoo7, the owner of this collection, just had their birthday! Give them a late thanks in the Discussions.
-- To vote your favorite hack, visit the Discussions tab and find the [poll](https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/discussions/59).
+- Schoolcheats IP logger: This is UNCONFIRMED but @VillainsRule4000 is looking into it.<br>
+UPDATE: Schoolcheats does use your IP. Whether these IPs are logged through hacks or website access is unknown. [Privacy Policy - Schoolcheats](https://schoolcheats.net/privacy/#:~:text=and%20prevent%20fraud-,Log%20Files,-schoolcheats.net%20follows)
+- TRY THE [DISCUSSIONS](https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/discussions)!
 - There is a [Google Site](https://sites.google.com/pasdknights.org/blooket-blacket-hacks) (with a few scripts).
 - WE HAVE OVER 20 STARS! ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ Thank you so much, it wouldn't be possible without you guys.  :)
 
@@ -25,14 +26,12 @@ Thank you to **@Snowflake-Coder-H2o** for:
 
 Thank you to **@NotZastix** for:
 - Bypass Hack
-- Tokens and XP Hack
 - Get all Blooks Hack
 
 Thank you to **@lol-jude** for:
 - Answer All Questions Correctly / AnswerBot Hack
-- Spam Open Boxes Hack
 - Set weight/Fishing Frenzy hack
 
-Thank you to **[schoolcheats.net](https://schoolcheats.net)** for a few other hacks.
+Thank you to **[schoolcheats.net](https://schoolcheats.net)** for a few other hacks (Include but are not limited to: Token/XP, Spam Boxes)
 
 If any of the hacks need to be updated, ask either **@Hankypoo7**, **@Snowflake-Coder-H2o**, or  **@isthatyourfaceoryourassicanttell**
