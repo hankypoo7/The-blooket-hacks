@@ -1,1 +1,0 @@
-localscript:if(parent(activates_TUREVALUE)Then-committo-actionblockhackeruser)
