@@ -1,5 +1,4 @@
-# Crypto Hack Add Crypto
-We have a CRYPTO HACK - ADD CRYPTO coming soon!<br>
-<br>
+# Crypto Hack
+We will be adding a new cheat called *Add Crypto* soon.
 
 **Suggested by [TheVillainCoder](https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/discussions/67)**.
