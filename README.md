@@ -48,4 +48,4 @@ Thank you to **@qaiik** for:
 
 Thank you to **[schoolcheats.net](https://schoolcheats.net)** for a few other hacks (Include but are not limited to: Token/XP, Spam Boxes)
 
-If any of the hacks need to be updated, ask either **@Hankypoo7**, **@Snowflake-Coder-H2o**, or  **@isthatyourfaceoryourassicanttell**
+If any of the hacks need to be updated, ask either **@Hankypoo7**, **@Snowflake-Coder-H2o**, **@Tech219**, or  **@isthatyourfaceoryourassicanttell**
