@@ -43,6 +43,8 @@ Thank you to **@BilbertRules** for:
 Thank you to **@qaiik** for:
 - Fishing Frenzy Best Possible Hack
 - Crypto Autoanswer
+- Crypto Mod
+
 Thank you to **[schoolcheats.net](https://schoolcheats.net)** for a few other hacks (Include but are not limited to: Token/XP, Spam Boxes)
 
 If any of the hacks need to be updated, ask either **@Hankypoo7**, **@Snowflake-Coder-H2o**, or  **@isthatyourfaceoryourassicanttell**
