@@ -40,6 +40,9 @@ Thank you to **@lol-jude** for:
 Thank you to **@BilbertRules** for:
 - Host Anticheat Hack
 
+Thank you to **@qaiik** for:
+- Fishing Frenzy Best Possible Hack
+
 Thank you to **[schoolcheats.net](https://schoolcheats.net)** for a few other hacks (Include but are not limited to: Token/XP, Spam Boxes)
 
 If any of the hacks need to be updated, ask either **@Hankypoo7**, **@Snowflake-Coder-H2o**, or  **@isthatyourfaceoryourassicanttell**
