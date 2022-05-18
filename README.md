@@ -44,6 +44,7 @@ Thank you to **@qaiik** for:
 - Fishing Frenzy Best Possible Hack
 - Crypto Autoanswer
 - Crypto Mod
+- Gold Quest Mod
 
 Thank you to **[schoolcheats.net](https://schoolcheats.net)** for a few other hacks (Include but are not limited to: Token/XP, Spam Boxes)
 
