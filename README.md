@@ -45,6 +45,7 @@ Thank you to **@qaiik** for:
 - Crypto Autoanswer
 - Crypto Mod
 - Gold Quest Mod
+- Classic Mod
 
 Thank you to **[schoolcheats.net](https://schoolcheats.net)** for a few other hacks (Include but are not limited to: Token/XP, Spam Boxes)
 
