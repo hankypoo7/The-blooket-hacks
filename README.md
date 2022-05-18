@@ -1,10 +1,13 @@
 # Blooket Hacks (Blooket-hacks-Hankypoo7-)
 ## URGENT: GETTING BANNED
 Using these hacks may result in a month-long or permanent ban from Blooket.
-IF YOU GET BANNED, IT ISN'T OUR FAULT.
+IF YOU GET BANNED, IT ISN'T OUR FAULT. These hacks might be Add "Currency" hacks. Thus the reason they aren't on here due to getting players banned.
 
 If you missed this and are currently banned, we can't actually do anything (there is no script).
 Scripts can only interact with the site in certain ways, and unbanning isn't possible with one.
+
+# Star
+Make sure to star this project! ✨
 
 ## Announcements:
 - Schoolcheats IP logger: This is UNCONFIRMED but @VillainsRule4000 is looking into it.<br>
