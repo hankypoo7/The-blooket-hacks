@@ -72,7 +72,7 @@
     - Crypto Autoanswer<br>
     - Crypto Mod<br>
     - Gold Quest Mod<br>
-    - Classic Mod
+    - Classic Mod<br>
   </p>
 </div>
 <div align="center">
