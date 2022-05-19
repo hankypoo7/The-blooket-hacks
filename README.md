@@ -22,7 +22,7 @@
   <h2 align="center">URGENT: Getting BANNED!</h2>
 
   <p align="center">
-    Using these hacks may result in a month-long or permanent ban from Blooket.<br>
+    <b>Using these hacks may result in a month-long or permanent ban from Blooket.<br></b>
     IF YOU GET BANNED, IT ISN'T OUR FAULT. Every script that might ban you has been removed.<br>
     <br>
     If you missed this and are currently banned, we can't actually do anything (there is no script).<br>
