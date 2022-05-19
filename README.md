@@ -2,12 +2,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-">
-    <img src="https://yt3.ggpht.com/ytc/AKedOLTXXs70Jpn4raZrAXOlgvHlkOoflW8sf0uSKhy5=s900-c-k-c0x00ffffff-no-rj" alt="Logo" width="300" height="300">
+    <img src="https://cdn.discordapp.com/guilds/605240810191192064/users/794163106347614208/avatars/a_60d546e95571d5785dd7468c24950294.gif?size=1024" alt="Logo" width="300" height="300">
   </a>
   <h1 align="center">Blooket Hacks</h1>
 
   <p align="center">
-    These are a ton of Blooket Hacks. Make sure to give us a star!<br>
+    These are a <b>ton</b> of Blooket Hacks. Make sure to give us a star!<br>
     <br>
     <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/Hankypoo7/Blooket-hacks-Hankypoo7-?color=FFA500" />
@@ -101,7 +101,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-">
-    <img src="https://yt3.ggpht.com/ytc/AKedOLTXXs70Jpn4raZrAXOlgvHlkOoflW8sf0uSKhy5=s900-c-k-c0x00ffffff-no-rj" alt="Logo" width="300" height="300">
+    <img src="https://cdn.discordapp.com/guilds/605240810191192064/users/794163106347614208/avatars/a_60d546e95571d5785dd7468c24950294.gif?size=1024" alt="Logo" width="300" height="300">
   </a>
   <h1 align="center">Blooket Hacks</h1>
 
