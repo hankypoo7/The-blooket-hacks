@@ -7,6 +7,7 @@
   <h1 align="center">Blooket Hacks</h1>
 These are made in <b>javascript.<b/>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+       <br>
   <p align="center">
     These are a <b>ton</b> of Blooket Hacks. Make sure to give us a star! 🌟<br>
     <br>
