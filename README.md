@@ -11,6 +11,7 @@ These are made in <b>javascript.<b/>
   <p align="center">
     These are a <b>ton</b> of Blooket Hacks. Make sure to give us a star! 🌟<br>
     <img alt="Stars" src="https://img.shields.io/github/stars/Hankypoo7/Blooket-hacks-Hankypoo7-.svg?color=#DFFF00"
+         <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-stars/">
     <br>
     <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/Hankypoo7/Blooket-hacks-Hankypoo7-?color=FFA500" />
