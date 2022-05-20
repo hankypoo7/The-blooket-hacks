@@ -5,7 +5,7 @@
     <img src="https://cdn.discordapp.com/guilds/605240810191192064/users/794163106347614208/avatars/a_60d546e95571d5785dd7468c24950294.gif?size=1024" alt="Logo" width="300" height="300">
   </a>
   <h1 align="center">Blooket Hacks</h1>
-<img alt="GitHub stars" src="https://img.shields.io/github/stars-pr/Hankypoo7/Blooket-hacks-Hankypoo7-?color=0088ff" /></a>
+<img alt="GitHub stars" src="https://img.shields.io/github/starred/Hankypoo7/Blooket-hacks-Hankypoo7-?color=0088ff" /></a>
   <p align="center">
     These are a <b>ton</b> of Blooket Hacks. Make sure to give us a star!<br>
     <br>
