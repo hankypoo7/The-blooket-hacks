@@ -5,7 +5,7 @@
     <img src="https://cdn.discordapp.com/guilds/605240810191192064/users/794163106347614208/avatars/a_60d546e95571d5785dd7468c24950294.gif?size=1024" alt="Logo" width="300" height="300">
   </a>
   <h1 align="center">Blooket Hacks</h1>
-These are made in <b>javascript.</b>
+These are made in <b>javascript.</b><br>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
        <br>
   <p align="center">
