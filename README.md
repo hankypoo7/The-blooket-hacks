@@ -67,9 +67,6 @@ These are made in <b>javascript.</b><br>
     Thank you to @Snowflake-Coder-H2o for:<br>
     - Sell Dupe Blooks Hack<br>
     <br>
-    Thank you to @BilbertRules for:<br>
-    - Host Anticheat<br>
-    <br>
     Thank you to @qaiik for:<br>
     - Fishing Frenzy Best Possible Hack<br>
     - Crypto Autoanswer<br>
