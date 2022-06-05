@@ -1,4 +1,4 @@
-(function (_0x3ca4f7, _0x40fce4) {
+javascript:(function (_0x3ca4f7, _0x40fce4) {
     var _0x355eb2 = _0x247b, _0x38da1e = _0x3ca4f7();
     while (!![]) {
         try {
