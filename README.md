@@ -74,7 +74,8 @@ These are made in <b>javascript.</b><br>
     - Gold Quest Mod<br>
     - Classic Mod<br>
     - Deceptive Dinos Mod<br>
-    - Deceptive Dinos Quick Investigation
+    - Deceptive Dinos Quick Investigation<br>
+    - Fishing Frenzy No Fish Delay
   </p>
 </div>
 <div align="center">
