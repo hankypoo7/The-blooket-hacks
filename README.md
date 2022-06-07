@@ -73,6 +73,8 @@ These are made in <b>javascript.</b><br>
     - Crypto Mod<br>
     - Gold Quest Mod<br>
     - Classic Mod<br>
+    - Deceptive Dinos Mod<br>
+    - Deceptive Dinos Quick Investigation
   </p>
 </div>
 <div align="center">
