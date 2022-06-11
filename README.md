@@ -79,6 +79,11 @@ These are made in <b>javascript.</b><br>
     Thank you to @rxzyx for:
     - Deceptive Dinos Get Fossils
     - Deceptive Dinos Fossil Multiplier
+    - Factory Clear Ads Forever
+    - OP Towers
+    - Place Blooks Anywhere
+    - Get Damage
+    - Set Health
   </p>
 </div>
 <div align="center">
