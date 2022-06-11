@@ -76,6 +76,9 @@ These are made in <b>javascript.</b><br>
     - Deceptive Dinos Mod<br>
     - Deceptive Dinos Quick Investigation<br>
     - Fishing Frenzy No Fish Delay
+    Thank you to @rxzyx for:
+    - Deceptive Dinos Get Fossils
+    - Deceptive Dinos Fossil Multiplier
   </p>
 </div>
 <div align="center">
