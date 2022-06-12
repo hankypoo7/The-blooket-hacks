@@ -5,17 +5,14 @@
     <img src="https://cdn.discordapp.com/guilds/605240810191192064/users/794163106347614208/avatars/a_60d546e95571d5785dd7468c24950294.gif?size=1024" alt="Logo" width="300" height="300">
   </a>
   <h1 align="center">Blooket Hacks</h1>
-These are made in <b>javascript.</b><br>
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-       <br>
-  <p align="center">
-    These are a <b>ton</b> of Blooket Hacks. Make sure to give us a star! 🌟<br>
-    <img alt="Stars" src="https://img.shields.io/github/stars/Hankypoo7/Blooket-hacks-Hankypoo7-.svg?color=#DFFF00"
-    <br>
-    <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Hankypoo7/Blooket-hacks-Hankypoo7-?color=FFA500" />
-    <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Hankypoo7/Blooket-hacks-Hankypoo7-?color=0088ff" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Betastar Logo" width="600" height="120"></img>
+  <br>
+  <br>
+  <img alt="Stars" src="https://img.shields.io/github/stars/Hankypoo7/Blooket-hacks-Hankypoo7-.svg?color=#DFFF00" width="220" height="70"</img>
+  <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Hankypoo7/Blooket-hacks-Hankypoo7-?color=FFA500" width="270" height="70"/></a>
+  <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Hankypoo7/Blooket-hacks-Hankypoo7-?color=0088ff" width="400" height="70"/></a>
   </p>
 </div>
 <br>
@@ -61,53 +58,91 @@ These are made in <b>javascript.</b><br>
 <div id="top"></div>
 <br />
 <div align="center">
-  <h2 align="center">Credits</h2>
+  <h2 align="center">Index</h2>
 
+  <h3 align="center">Blook Rush</h3>
   <p align="center">
-    <br>
-    Thank you to @qaiik for:<br>
-    - Fishing Frenzy Best Possible Hack<br>
-    - Crypto Autoanswer<br>
-    - Crypto Mod<br>
-    - Gold Quest Mod<br>
-    - Classic Mod<br>
-    - Deceptive Dinos Mod<br>
-    - Deceptive Dinos Quick Investigation<br>
-    - Fishing Frenzy No Fish Delay
-    Thank you to @rxzyx for:
-    - Deceptive Dinos Get Fossils
-    - Deceptive Dinos Fossil Multiplier
-    - Factory Clear Ads Forever
-    - OP Towers
-    - Place Blooks Anywhere
-    - Get Damage
-    - Set Health
+    <b>SetBlooks.js</b> - set the number of Blooks you have.<br>
+    <b>SetDefense.js</b> - set your defense to a number over four.
   </p>
-</div>
-<div align="center">
-  <h3 align="center">Credits: Schoolcheats</h3>
-
+  <h3 align="center">Cafe</h3>
   <p align="center">
-    This will be a wordy, but you'll live.<br>
-    <br>
-    Schoolcheats.net, or Glixzzy, have made some of these hacks.<br>
-    It's been claimed that Schoolcheats hacks have IP loggers in them.<br>
-    After an investigation, @VillainsRule4000 concluded that Schoolcheats does log your IP.<br>
-    But why is that so bad?<br>
-    <br>
-    Fun fact: Vitually every site on the web logs your IP.<br>
-    Google actually logs it to give you maps to places.<br>
-    Weather.com logs it to view your general location, for the weather.<br>
-    Schoolcheats says that they log it for statistical reasons. Could they abuse it? Yes. Do they? Probably not.<br>
-    If you are still wary of Schoolcheats, read their <a href="https://schoolcheats.net/privacy">privacy policy</a>.<br>
-    Relax, people. There's always the <a href="https://chrome.google.com/webstore/detail/bihmplhobchoageeokmgbdihknkjbknd">VPNs</a>.<br>
-    <br>
-    Schoolcheats supplied the Tokens/XP, Auto Answer, and Unlock all Blooks hacks.
+    <b>GetCoins.js</b> - get some money to buy updates. Credit to Schoolcheats.<br>
+    <b>InfineFoodLevel.js</b> - makes the level of food (like you buy in the shop) an infinite number. Credit to Schoolcheats.<br>
+    <b>StockInfiniteFood.js</b> - makes the stock of food infinite. Credit to Schoolcheats.
+  </p>
+  <h3 align="center">Crazy Kingdom</h3>
+  <p align="center">
+    <b>ChoiceESP.js</b> - tells you what will happen if you click Yes or No. Credit to Schoolcheats.<br>
+    <b>MaxResources.js</b> - makes the levels of everything 100. Credit to Schoolcheats.<br>
+    <b>RemoveTaxes.js</b> - gets rid of Tax Toucan and the dragon with him. Credit to Schoolcheats.<br>
+    <b>SetGuests.js</b> - set how many blooks you have answered. Credit to Schoolcheats.<br>
+    <b>SkipGuest.js</b> - skip a blook. Credit to Schoolcheats.
+  </p>
+  <h3 align="center">Crypto Hack</h3>
+  <p align="center">
+    <b>InputPlayerPassword.js</b> - automatically inputs a user's (correct) password as you hack them. Credit to @rxzyx (Github).<br>
+    <b>SetCrypto.js</b> - adds crypto. Credit to @rxzyx (Github).
+  </p>
+  <h3 align="center">Deceptive Dinos</h3>
+  <p align="center">
+    <b>DinoMod.js</b> - full control over Deceptive Dinos. Credit to @qaiik (Github).<br>
+    <b>FossilMultiplier.js</b> - mutltiplies your Fossil Income! Credit to @rxzyx (Github).<br>
+    <b>SetFossils.js</b> - allows you to set the number of fossils you have. Credit to @rxzyx (Github).<br>
+    <b>QuickInvestigation.js</b> - quickly investigates EVERY PLAYER to catch cheaters. Credit to @qaiik (Github).
+  </p>
+  <h3 align="center">Factory</h3>
+  <p align="center">
+    <b>AllMegaBot.js</b> - makes every worker a maxed out Mega Bot. Credit to Schoolcheats.<br>
+    <b>ClearAdsForever.js</b> - makes the Spam Ads glitch never show up on your screen. Credit to @rxzyx (Github).<br>
+    <b>SetCash.js</b> - set the number of cash you have. Credit to Schoolcheats.
+  </p>
+  <h3 align="center">Fishing Frenzy</h3>
+  <p align="center">
+    <b>BestFishes.js</b> - get the best fishes! Credit to @qaiik (Github).<br>
+    <b>FrenzyForever.js</b> - Frenzy for only you, the entire game. Credit to (Unknown).<br>
+    <b>NoFishDelay.js</b> - don't wait for a fish to be caught...get one instantly. Credit to @qaiik (Github).
+  </p>
+  <h3 align="center">Global</h3>
+  <p align="center">
+    <b>BypassRandomName.js</b> - bypass the Random Name feature. Credit to @BilbertRules (Github).<br>
+    <b>EveryAnswerCorrect.js</b> - never get an asnwer wrong! Credit to Schoolcheats.<br>
+    <b>GetTokensXP.js</b> - get your daily 500 tokens and 300 XP. Credit to Schoolcheats.<br>
+    <b>SellDupeBlooks.js</b> - sell all of your suplicate Blooks. Destructive action. Credit to Schoolcheats.<br>
+    <b>SpamBoxes.js</b> - spam open any box. For every one box, wait one second. Credit to Schoolcheats.<br>
+    <b>SpoofBlooks.js</b> - get EVERY IN-GAME BLOOK! Only to be used in the lobby of games, before the game starts. Credit to Schoolcheats.
+  </p>
+  <h3 align="center">Gold Quest</h3>
+  <p align="center">
+    <b>GoldMod.js</b> - full control over Gold Quest. Does everything for you, except auto-swap. Credit to @qaiik (Github).<br>
+    <b>ChestESP.js</b> - see what is in each chest, before the chest is opened. Credit to Schoolcheats.
+  </p>
+  <h3 align="center">Racing</h3>
+  <p align="center">
+    <b>InstantWin.js</b> - instantly finish the race. Credit to Schoolcheats.
+  </p>
+  <h3 align="center">Tower Defense</h3>
+  <p align="center">
+    <b>ClearEnemies.js</b> - clear all enemies in a single round. Credit to Schoolcheats.<br>
+    <b>GetDamage.js</b> - in a live game, your points, where you are on the leaderboard, is your Damage. This lets you GET Damage to get to #1. Credit to @rxzyx (Github).<br>
+    <b>OPTowers.js</b> - towers deal INSANE damage. Credit to @rxzyx (Github).<br>
+    <b>RemoveAnnoyingDucks.js</b> - removed any of the Annoying Ducks feature in Live Games. Credit to (Unknown).<br>
+    <b>SetCash.js</b> - set the amount of cash you have. Credit to Schoolcheats.<br>
+    <b>TowersAnywhere.js</b> - place towers ANYWHERE, including the path. Credit to @rxzyx (Github).<br>
+  </p>
+  <h3 align="center">Tower of Doom</h3>
+  <p align="center">
+    <b>LowerEnemyStats.js</b> - sets enemy's Strength, Charisma, and Wisdom to 0. Credit to Schoolcheats.<br>
+    <b>MaxPlayerStats.js</b> - sets player's Strength, Charisma, and Wisdom to 100. Credit to Schoolcheats.<br>
+    <b>SetHealth.js</b> - change your health. Credit to @rxzyx (Github).
+  </p>
+  <h3 align="center">Utilites (utils)</h3>
+  <p align="center">
+    <b>ExtendStats.js</b> - adds more figures to your Stats! Credit to @Gooseterv (Github).<br>
+    <b>SeeUserBlooks.js</b> - see a user's Blooks. Credit to @Gooseterv (Github).
   </p>
 </div>
 <br>
-<div id="top"></div>
-<br />
 <div align="center">
   <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-">
     <img src="https://cdn.discordapp.com/guilds/605240810191192064/users/794163106347614208/avatars/a_60d546e95571d5785dd7468c24950294.gif?size=1024" alt="Logo" width="300" height="300">
