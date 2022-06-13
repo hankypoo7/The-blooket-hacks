@@ -110,7 +110,8 @@
     <b>GetTokensXP.js</b> - get your daily 500 tokens and 300 XP. Credit to Schoolcheats.<br>
     <b>SellDupeBlooks.js</b> - sell all of your suplicate Blooks. Destructive action. Credit to Schoolcheats.<br>
     <b>SpamBoxes.js</b> - spam open any box. For every one box, wait one second. Credit to Schoolcheats.<br>
-    <b>SpoofBlooks.js</b> - get EVERY IN-GAME BLOOK! Only to be used in the lobby of games, before the game starts. Credit to Schoolcheats.
+    <b>SpoofBlooks.js</b> - get EVERY IN-GAME BLOOK! Only to be used on the Blooks page. Credit to @Gooseterv (Github).
+    <b>SpoofLobbyBlooks.js</b> - get EVERY IN-GAME BLOOK! Only to be used in the lobby of games, before the game starts. Credit to Schoolcheats.
   </p>
   <h3 align="center">Gold Quest</h3>
   <p align="center">
