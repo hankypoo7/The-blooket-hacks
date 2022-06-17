@@ -16,8 +16,6 @@
   </p>
 </div>
 <br>
-<div id="top"></div>
-<br />
 <div align="center">
   <h2 align="center">URGENT: Getting BANNED!</h2>
 
@@ -25,13 +23,23 @@
     <b>Using these hacks may result in a month-long or permanent ban from Blooket.<br></b>
     IF YOU GET BANNED, IT ISN'T OUR FAULT. Every script that might ban you has been removed.<br>
     <br>
-    If you missed this and are currently banned, we can't actually do anything (there is no script).<br>
-    Scripts can only interact with the site in certain ways, and unbanning isn't possible in this way.
+    If you missed this and are currently banned, we can't actually do anything (there is no script).
   </p>
 </div>
 <br>
-<div id="top"></div>
-<br />
+<div align="center">
+  <h2 align="center">Possibilities of scripts</h2>
+
+  <p align="center">
+    I've been seeing MANY people talking about make the Add Tokens add more than 500, can you change the chance of a blook, etc.?<br>
+    I wanted to clear up, there are some things you just can't change. I know it's frustrating.<br>
+    There are some things you can't change without owning this site or having access to the database.<br>
+    Please keep this in mind. Thank you a lot for the support.<br>
+    <br>
+    The three I've seen most are: change chance of something, more than 500 tokens, and unban account.
+  </p>
+</div>
+<br>
 <div align="center">
   <h2 align="center">Hack Usage/Hack Index</h2>
 
@@ -48,3 +56,8 @@
     Enjoy!
   </p>
 </div>
+
+
+<!---
+Hey hey, I've been seeing MANY discussions talking about make the token hack more than 500, can you change the chance of this and that? I wanted to clear up, the max tokens per day is 500, and it is impossible under no circumstance to change chances as that is actual Blooket code hard coded, I would need access to Blooket's code that get's pushed out to change this.
+Thank you alot for the support,
