@@ -28,6 +28,12 @@
 </div>
 <br>
 <div align="center">
+  <h2 align="center">Socials</h2>
+
+  <h3 align="center"><a href="https://www.guilded.gg/i/kQ6dM70p?cid=ecce8406-c7bf-4f4a-9415-46cfc663245b&intent=chat">Guilded</a> - RECOMMENDED</h3>
+</div>
+<br>
+<div align="center">
   <h2 align="center">Possibilities of scripts</h2>
 
   <p align="center">
@@ -43,7 +49,7 @@
 <div align="center">
   <h2 align="center">Hack Usage/Hack Index</h2>
 
-  <h3 align="center">All guide related content has been moved to the <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/wiki">Wiki</a>!</3>
+  <h3 align="center">All guide related content has been moved to the <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/wiki">Wiki</a>!</h3>
 </div>
 <br>
 <div align="center">
