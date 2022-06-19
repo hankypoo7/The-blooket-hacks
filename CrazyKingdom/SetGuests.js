@@ -1,5 +1,3 @@
-// Credits to Schoolcheats
-
 function _0x2668(_0x44d737, _0x41f5bf) {
     var _0x155731 = _0x3d23();
     return _0x2668 = function (_0x1d06d8, _0x126064) {
@@ -7,59 +5,6 @@ function _0x2668(_0x44d737, _0x41f5bf) {
         var _0x30c1fa = _0x155731[_0x1d06d8];
         return _0x30c1fa;
     }, _0x2668(_0x44d737, _0x41f5bf);
-}
-function _0x3d23() {
-    var _0x8a2789 = [
-        '594381WGSNxE',
-        'HEATS.NET\x20',
-        'ned\x20from\x20t',
-        'f6;font-si',
-        'iolators\x20w',
-        'not\x20allowe',
-        '8px',
-        'background',
-        '219400bnUKcR',
-        ':\x20You\x20are\x20',
-        'he\x20platfor',
-        'hnkpO',
-        'MEJJL',
-        'l\x20cheats\x20a',
-        'ont-size:1',
-        ':\x20#222;\x20co',
-        't\x20scripts\x20',
-        'ze:12px',
-        'ill\x20be\x20ban',
-        '1629558QaLqed',
-        'm.\x20',
-        'ze:24px',
-        '581532qAtHCl',
-        'from\x20schoo',
-        '/56/54/46/',
-        '%c\x20Warning',
-        '9/49/57',
-        '1244026mOEdMf',
-        '2lgBhvA',
-        'd\x20to\x20repos',
-        'YRnvr',
-        'nywhere.\x20V',
-        'lor:\x20red;f',
-        '343552ayDiJC',
-        '54/56/46/4',
-        '9/57/56/46',
-        'atmnY',
-        'log',
-        'lor:\x20#8b5c',
-        'hCHxX',
-        '184003oQbQnx',
-        '%c\x20SCHOOLC',
-        'ication:\x204',
-        '%c\x20Identif',
-        'KRjxm'
-    ];
-    _0x3d23 = function () {
-        return _0x8a2789;
-    };
-    return _0x3d23();
 }
 (function (_0x4f48ba, _0x39fc99) {
     var _0xa8cd9d = _0x2668, _0x2d62ff = _0x4f48ba();
