@@ -1,65 +1,10 @@
-javascript:function _0x2f97(_0x57582e, _0x40c1b3) {
+function _0x2f97(_0x57582e, _0x40c1b3) {
     var _0x1ca99 = _0x41aa();
     return _0x2f97 = function (_0x415d8c, _0x1280d0) {
         _0x415d8c = _0x415d8c - (-0x1 * 0x1897 + -0x1f81 * 0x1 + 0x39c5);
         var _0x5e44ce = _0x1ca99[_0x415d8c];
         return _0x5e44ce;
     }, _0x2f97(_0x57582e, _0x40c1b3);
-}
-function _0x41aa() {
-    var _0x5eeb2e = [
-        'ont-size:1',
-        'background',
-        'HEATS.NET\x20',
-        'm.\x20',
-        '%c\x20Warning',
-        'ication:\x204',
-        '9bogqku',
-        'ned\x20from\x20t',
-        '50/50/49/4',
-        '4699917HaxOlG',
-        '8px',
-        'lor:\x20red;f',
-        ':\x20#222;\x20co',
-        '4059906bBOhdl',
-        'nBvSp',
-        'pPFeJ',
-        'zTDwU',
-        'ze:24px',
-        'RULjd',
-        'nywhere.\x20V',
-        't\x20scripts\x20',
-        'd\x20to\x20repos',
-        'not\x20allowe',
-        '4AlImFH',
-        '592375Ydahoi',
-        'VhtdN',
-        ':\x20You\x20are\x20',
-        'WsDbK',
-        'he\x20platfor',
-        'ze:12px',
-        'ill\x20be\x20ban',
-        'f6;font-si',
-        '963364bRvXVe',
-        '9/56/53/46',
-        'l\x20cheats\x20a',
-        '289937jDwhZH',
-        '%c\x20Identif',
-        '1226104ZNHmbj',
-        '10UfchrN',
-        '/56/48/46/',
-        '%c\x20SCHOOLC',
-        '6/56/53',
-        'lor:\x20#8b5c',
-        'from\x20schoo',
-        'iolators\x20w',
-        'log',
-        '3479238wYAaxk'
-    ];
-    _0x41aa = function () {
-        return _0x5eeb2e;
-    };
-    return _0x41aa();
 }
 (function (_0x65d998, _0x4409c3) {
     var _0x226915 = _0x2f97, _0xc8c1b4 = _0x65d998();
