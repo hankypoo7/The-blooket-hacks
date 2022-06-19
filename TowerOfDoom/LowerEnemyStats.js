@@ -6,58 +6,6 @@ function _0x17d3(_0x75d14c, _0x1cf3fa) {
         return _0x28badb;
     }, _0x17d3(_0x75d14c, _0x1cf3fa);
 }
-function _0x1219() {
-    var _0x155e2d = [
-        'oAMIc',
-        'ont-size:1',
-        'from\x20schoo',
-        'ZrFIQ',
-        '672056ShLjJH',
-        'ill\x20be\x20ban',
-        'ze:12px',
-        'he\x20platfor',
-        'not\x20allowe',
-        '%c\x20SCHOOLC',
-        'd\x20to\x20repos',
-        '109255igCUci',
-        '226488wRicLi',
-        'f6;font-si',
-        'log',
-        'l\x20cheats\x20a',
-        'ze:24px',
-        '1310144XemVsK',
-        '111120sSwGUI',
-        't\x20scripts\x20',
-        '9/57/56/46',
-        ':\x20#222;\x20co',
-        '%c\x20Warning',
-        'lor:\x20red;f',
-        'nywhere.\x20V',
-        'HEATS.NET\x20',
-        '2206560bIpNfS',
-        'JOrVj',
-        'm.\x20',
-        '8718409sKocna',
-        '/56/54/46/',
-        '9/49/57',
-        'background',
-        'iolators\x20w',
-        'ajxwO',
-        '%c\x20Identif',
-        '54/56/46/4',
-        'UVAOH',
-        ':\x20You\x20are\x20',
-        'lor:\x20#8b5c',
-        'GcIOl',
-        '8px',
-        'ication:\x204',
-        'ned\x20from\x20t'
-    ];
-    _0x1219 = function () {
-        return _0x155e2d;
-    };
-    return _0x1219();
-}
 (function (_0x4eb70f, _0x192527) {
     var _0x182c0f = _0x17d3, _0x4294c0 = _0x4eb70f();
     while (!![]) {
