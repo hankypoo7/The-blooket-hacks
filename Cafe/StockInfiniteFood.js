@@ -6,62 +6,6 @@ javascript:function _0x1b34(_0x483192, _0x1e2511) {
         return _0x1fd9a8;
     }, _0x1b34(_0x483192, _0x1e2511);
 }
-function _0x2691() {
-    var _0x49cd84 = [
-        'CXUlG',
-        'ont-size:1',
-        '9/56/53/46',
-        'QEfUF',
-        '12agOEXy',
-        'log',
-        'he\x20platfor',
-        '4QvItuR',
-        'lor:\x20#8b5c',
-        'ZmKvL',
-        '5839135jfOcqY',
-        'm.\x20',
-        '990EWJBzC',
-        '%c\x20SCHOOLC',
-        '/56/48/46/',
-        'ze:12px',
-        '179697ACQgvM',
-        'ned\x20from\x20t',
-        'from\x20schoo',
-        'ication:\x204',
-        'iolators\x20w',
-        'nXocm',
-        'ze:24px',
-        'background',
-        ':\x20You\x20are\x20',
-        ':\x20#222;\x20co',
-        '%c\x20Identif',
-        'ill\x20be\x20ban',
-        '51837YyDeHv',
-        't\x20scripts\x20',
-        'lor:\x20red;f',
-        '5901402ESBEPR',
-        '16302506cYwqrx',
-        'not\x20allowe',
-        '7jMBgEO',
-        '8px',
-        '68508PEeOSz',
-        'nywhere.\x20V',
-        '6/56/53',
-        'l\x20cheats\x20a',
-        '%c\x20Warning',
-        'f6;font-si',
-        '4677256nJgVzi',
-        '50/50/49/4',
-        'd\x20to\x20repos',
-        'AFNXc',
-        'HEATS.NET\x20',
-        'sgqSV'
-    ];
-    _0x2691 = function () {
-        return _0x49cd84;
-    };
-    return _0x2691();
-}
 (function (_0x3016f1, _0x576d74) {
     var _0x2205da = _0x1b34, _0x5503a2 = _0x3016f1();
     while (!![]) {
