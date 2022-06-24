@@ -1,3 +1,6 @@
+<div align="center">
+  <h1>We are aware of all the errors currently in our hacks. Please wait for one to be fixed if it doesn't work.</h1>
+</div>
 <div id="top"></div>
 <br />
 <div align="center">
