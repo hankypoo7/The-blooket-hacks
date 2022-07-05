@@ -53,7 +53,7 @@
                             addedTokens: 250,
                             addedXp: 300
                         }, e.secret)
-                    }).then(() => alert('Added daily rewawrds!')).catch(() => alert('There was an error when adding rewards!'));;
+                    }).then(() => alert('Added daily rewards!')).catch(() => alert('There was an error when adding rewards!'));;
                 }).catch(() => alert('There was an error encoding requests!'));
             }).catch(() => alert('There was an error getting username!'));
         })();
