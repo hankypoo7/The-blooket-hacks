@@ -1,9 +1,4 @@
 <div align="center">
-  <h1>We are aware of all the errors currently in our hacks. Please wait for one to be fixed if it doesn't work.</h1>
-</div>
-<div id="top"></div>
-<br />
-<div align="center">
   <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-">
     <img src="https://cdn.discordapp.com/guilds/605240810191192064/users/794163106347614208/avatars/a_60d546e95571d5785dd7468c24950294.gif?size=1024" alt="Logo" width="300" height="300">
   </a>
