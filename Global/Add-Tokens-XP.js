@@ -5,6 +5,8 @@
     window.prompt = n.contentWindow.prompt.bind(window);
     window.confirm = n.contentWindow.confirm.bind(window);
     n.remove();
+    
+    alert('This adds 499 tokens to keep you from being banned.');
 
     var getValues = () => new Promise((e, t) => {
         try {
@@ -50,7 +52,7 @@
                         },
                         body: await encodeValues({
                             name: x.name,
-                            addedTokens: 250,
+                            addedTokens: 499,
                             addedXp: 300
                         }, e.secret)
                     }).then(() => alert('Added daily rewards!')).catch(() => alert('There was an error when adding rewards!'));;
