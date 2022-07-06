@@ -6,8 +6,6 @@
     window.confirm = n.contentWindow.confirm.bind(window);
     n.remove();
     
-    alert('This adds 499 tokens to keep you from being banned.');
-
     var getValues = () => new Promise((e, t) => {
         try {
             let n = window.webpackJsonp.map(e => Object.keys(e[1]).map(t => e[1][t])).reduce((e, t) => [...e, ...t], []).find(e => /\w{8}-\w{4}-\w{4}-\w{4}-\w{12}/.test(e.toString()) && /\(new TextEncoder\)\.encode\(\"(.+?)\"\)/.test(e.toString())).toString();
@@ -39,7 +37,7 @@
                         },
                         body: await encodeValues({
                             name: x.name,
-                            addedTokens: 250,
+                            addedTokens: 500,
                             addedXp: 300
                         }, e.secret)
                     });
@@ -52,7 +50,7 @@
                         },
                         body: await encodeValues({
                             name: x.name,
-                            addedTokens: 499,
+                            addedTokens: 500,
                             addedXp: 300
                         }, e.secret)
                     }).then(() => alert('Added daily rewards!')).catch(() => alert('There was an error when adding rewards!'));;
