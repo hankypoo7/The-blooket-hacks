@@ -1,16 +1,16 @@
 <div align="center">
   <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-">
-    <img src="https://cdn.discordapp.com/guilds/605240810191192064/users/794163106347614208/avatars/a_60d546e95571d5785dd7468c24950294.gif?size=1024" alt="Logo" width="300" height="300">
+    <img src="https://cdn.discordapp.com/guilds/605240810191192064/users/794163106347614208/avatars/a_60d546e95571d5785dd7468c24950294.gif?size=32" alt="Logo" width="128" height="128">
   </a>
   <h1 align="center">Blooket Hacks</h1>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Betastar Logo" width="600" height="120"></img>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Betastar Logo" width="" height=""></img>
   <br>
   <br>
-  <img alt="Stars" src="https://img.shields.io/github/stars/Hankypoo7/Blooket-hacks-Hankypoo7-.svg?color=#DFFF00" width="220" height="70"</img>
+  <img alt="Stars" src="https://img.shields.io/github/stars/Hankypoo7/Blooket-hacks-Hankypoo7-.svg?color=#DFFF00" width="" height=""</img>
   <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Hankypoo7/Blooket-hacks-Hankypoo7-?color=FFA500" width="270" height="75"/></a>
+      <img alt="Issues" src="https://img.shields.io/github/issues/Hankypoo7/Blooket-hacks-Hankypoo7-?color=FFA500" width="" height=""/></a>
   <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Hankypoo7/Blooket-hacks-Hankypoo7-?color=0088ff" width="400" height="70"/></a>
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Hankypoo7/Blooket-hacks-Hankypoo7-?color=0088ff" width="" height=""/></a>
   </p>
 </div>
 <br>
@@ -50,16 +50,6 @@
   <h3 align="center">All guide related content has been moved to the <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-/wiki">Wiki</a>!</h3>
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-">
-    <img src="https://cdn.discordapp.com/guilds/605240810191192064/users/794163106347614208/avatars/a_60d546e95571d5785dd7468c24950294.gif?size=1024" alt="Logo" width="300" height="300">
-  </a>
-  <h1 align="center">Blooket Hacks</h1>
-
-  <p align="center">
-    Enjoy!
-  </p>
-</div>
 
 
 <!---
