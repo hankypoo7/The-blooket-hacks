@@ -1,7 +1,7 @@
  <h2 align="center">Welcome to the ultimate blooket hack compilation page!</h2>
 
   <p align="center">
-    <b>This respository has combined</b><br>
+    <b>This respository has swag ig lol</b><br>
    Enjoy this page of many hacks!<br>
     <br>
   Credits to the code creators:<br>
