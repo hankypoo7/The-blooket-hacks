@@ -2,7 +2,7 @@
 
   <p align="center">
     <b>This respository has combined</b><br>
-    None of our collaborators can actually make hacks.<br>
+   Enjoy this page of many hacks!<br>
     <br>
   Credits to the code creators:<br>
     <ul>
