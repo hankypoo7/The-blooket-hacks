@@ -14,7 +14,6 @@
   <br>
  <p align="center">
  <b>HOW TO USE</;(Or if you are on school computer go to the wiki tab,</b>
-"https://user-images.githubusercontent.com/100436822/189150324-f649bc6e-8ddc-4d67-95c9-6c485d5b62db.png"
 <img src="https://user-images.githubusercontent.com/100436822/189150324-f649bc6e-8ddc-4d67-95c9-6c485d5b62db.png" alt="ct">
 
 <p align="center">
