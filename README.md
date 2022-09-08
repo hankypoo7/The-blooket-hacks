@@ -12,7 +12,6 @@
   </p>
   <br>
 
-# How to execute the scripts!
  <p align="center">
   First step: Copy <i>any script</i> you would like.
  <p align="center">  
