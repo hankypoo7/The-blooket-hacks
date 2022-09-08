@@ -1,5 +1,4 @@
  <h2 align="center">Welcome to the Ultimate Blooket Hack Compilation Page!</h2>
-
   <p align="center">
     <b>This respository is swag</b><br>
    Enjoy this page of many hacks!<br>
@@ -9,9 +8,13 @@
       <li><a href="https://github.com/therealgliz/blooket-hacks">glixzzy</a></li>
       <li><a href="https://github.com/qaiik/blkt-reader">qaiik</a></li>
       <li><a href="https://github.com/rxzyx/Blooket-Hacks">rxzyx</a></li>
+      <li><a href="https://github.com/VillainsRule4000/BlooketMaster/tree/main/hacks
+">rxzyx</a></li>
   </p>
   <br>
-
+ <p align="center">
+ <b>HOW TO USE</;(Or if you are on school computer go to the wiki tab,</b>
+ ![Screenshot 2022-09-08 9 34 09 AM](https://user-images.githubusercontent.com/100436822/189150324-f649bc6e-8ddc-4d67-95c9-6c485d5b62db.png)
  <p align="center">
   First step: Copy <i>any script</i> you would like.
  <p align="center">  
