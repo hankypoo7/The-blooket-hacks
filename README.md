@@ -20,6 +20,7 @@
     There are some things you can't change without owning this site or having access to the database.<br>
     Please keep this in mind. Thank you a lot for the support.<br>
     <br>
-    The three I've seen most are: change chance of something, more than 500 tokens, and unban account.
+    The three I've seen most are: change chance of something, more than 500 tokens, and unban account.<br>
+    Also, some of these <b>Might not be up to date.</b> So if something dosen't work, either just ignore it and don't use it or contact us or someone else to help you.
   </p>
 </div>
