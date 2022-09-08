@@ -14,8 +14,10 @@
   <br>
  <p align="center">
  <b>HOW TO USE</;(Or if you are on school computer go to the wiki tab,</b>
- ![Screenshot 2022-09-08 9 34 09 AM](https://user-images.githubusercontent.com/100436822/189150324-f649bc6e-8ddc-4d67-95c9-6c485d5b62db.png)
- <p align="center">
+"https://user-images.githubusercontent.com/100436822/189150324-f649bc6e-8ddc-4d67-95c9-6c485d5b62db.png"
+<img src="https://user-images.githubusercontent.com/100436822/189150324-f649bc6e-8ddc-4d67-95c9-6c485d5b62db.png" alt="ct">
+
+<p align="center">
   First step: Copy <i>any script</i> you would like.
  <p align="center">  
   Second step: Go to the Blooket Webpage and Login <b>if required.</b>
