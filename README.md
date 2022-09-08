@@ -9,7 +9,7 @@
       <li><a href="https://github.com/qaiik/blkt-reader">qaiik</a></li>
       <li><a href="https://github.com/rxzyx/Blooket-Hacks">rxzyx</a></li>
       <li><a href="https://github.com/VillainsRule4000/BlooketMaster/tree/main/hacks
-">rxzyx</a></li>
+">VillainsRule4000</a></li>
   </p>
   <br>
  <p align="center">
