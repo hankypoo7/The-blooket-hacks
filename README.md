@@ -13,9 +13,9 @@
   </p>
   <br>
  <p align="center">
- Hello, welcome to our Blooket Hacks!<br>
-If you have an issue, please report it in the Issues page.
-***
+ 
+<b>*If you have an issue, please report it in the Issues page.*</b><br>
+
 <div align="center">
   <h1 align="center">Hack Usage</h1>
 
