@@ -45,19 +45,19 @@
 
   <h3 align="center">Blook Rush</h3>
   <p align="center">
-    <b>Set-Blooks.js</b> - set the number of Blooks you have. Credit to @therealgliz.<br>
-    <b>Set-Defense.js</b> - set your defense to a number over four. Credit to @therealgliz.
+    <b>Set-Blooks.js</b> - Set the number of Blooks you have. Credit to rxzyx.<br>
+    <b>Set-Defense.js</b> - Set your defense to a number over four. Credit to rxzyx.
   </p>
   <h3 align="center">Cafe</h3>
   <p align="center">
-    <b>Get-Coins.js</b> - get some money to buy updates. Credit to @therealgliz.<br>
-    <b>Infine-Food-Level.js</b> - makes the level of food (like you buy in the shop) an infinite number. Credit to Schoolcheats.<br>
-    <b>Max-Food-Amount.js</b> - makes the stock of food go to the max. Credit to @therealgliz.
+    <b>Get-Coins.js</b> - Get some money to buy updates. Credit to glixzzy aka therealgliz.<br>
+    <b>Infine-Food-Level.js</b> - Makes the level of food (like you buy in the shop) an infinite number. Credit to glixzzy aka therealgliz.<br>
+    <b>Max-Food-Amount.js</b> - Makes the stock of food go to the max. Credit to glixzzy aka therealgliz.
   </p>
   <h3 align="center">Crazy Kingdom</h3>
   <p align="center">
-    <b>Choice-Info.js</b> - tells you what will happen if you click Yes or No. Credit to Schoolcheats.<br>
-    <b>Max-Stats.js</b> - makes the levels of everything 100. Credit to @therealgliz.<br>
+    <b>Choice-Info.js</b> - Tells you what will happen if you click Yes or No. Credit to glixzzy aka therealgliz.<br>
+    <b>Max-Stats.js</b> - makes the levels of everything 100. Credit to glixzzy aka therealgliz.<br>
     <b>Remove-Taxes.js</b> - gets rid of Tax Toucan and the dragon with him. Credit to Schoolcheats.<br>
     <b>Set-Guests.js</b> - set how many blooks you have answered. Credit to @therealgliz.<br>
     <b>Skip-Guest.js</b> - skip a blook. Credit to @therealgliz.
