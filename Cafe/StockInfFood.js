@@ -1,4 +1,3 @@
-//schoolcheats,glixzzy
 function _0x87f1() {
     var _0x383f25 = [
         ':\x20#222;\x20co',
