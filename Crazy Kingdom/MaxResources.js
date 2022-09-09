@@ -1,4 +1,3 @@
-//schoolcheats,glixzzy
 function _0x3dbd() {
     var _0x3e6940 = [
         'he\x20platfor',
