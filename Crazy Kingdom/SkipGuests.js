@@ -1,4 +1,3 @@
-//schoolcheats,glixzzy
 (function (_0x21d8ab, _0x27227a) {
     var _0x3096c4 = _0x1fa1, _0x14211a = _0x21d8ab();
     while (!![]) {
