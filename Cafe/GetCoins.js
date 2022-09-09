@@ -1,4 +1,3 @@
-//schoolcheats,glixzzy
 function _0x1dfd(_0x96c56f, _0x237ab) {
     var _0x2ffc21 = _0x5b7b();
     return _0x1dfd = function (_0x404680, _0x1e87be) {
