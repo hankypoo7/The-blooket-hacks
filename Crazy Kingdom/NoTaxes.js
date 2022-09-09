@@ -1,4 +1,3 @@
-//schoolcheats,glixzzy
 function _0x5c3f(_0x198a33, _0x5d66db) {
     var _0x39c396 = _0x716f();
     return _0x5c3f = function (_0x332e27, _0x12c0d0) {
