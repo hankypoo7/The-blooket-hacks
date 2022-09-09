@@ -1,4 +1,3 @@
-//schoolcheats,glixzzy
 function _0x234b(_0x371ea8, _0x58ae75) {
     var _0x3e619c = _0x5b96();
     return _0x234b = function (_0x3dabc5, _0x12fc74) {
