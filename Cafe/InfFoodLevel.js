@@ -1,4 +1,3 @@
-//schoolcheats,glixzzy
 function _0x4034(_0x3008fd, _0x1f64b4) {
     var _0x1a0f34 = _0x58b9();
     return _0x4034 = function (_0x3ada7c, _0x37ce9b) {
