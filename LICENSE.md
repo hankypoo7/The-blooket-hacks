@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Hankypoo7
+Copyright (c) 2023 Hankypoo7
 
 ***DISCLAIMER: THIS RESPOSITORY IS A COLLECTION OF BLOOKET HACKS. I DO NOT OWN NOR TAKE CREDIT FOR ANY CODE CREATED CREDITS ARE IN THE CREDITS SECTION***
 Permission is hereby granted, free of charge, to any person obtaining a copy
