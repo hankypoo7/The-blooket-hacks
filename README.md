@@ -2,7 +2,7 @@
   <h1>Welcome to the Blooket Hack Compilation!</h1>
   <p>
     Enjoy this page of many hacks!
-    <li><a href="   https://forms.gle/Qt7tGSw4WAEzuVPs8">Staff Application</a></li>
+    <li><a href="https://forms.gle/Qt7tGSw4WAEzuVPs8">Staff Application</a></li>
   </p>
   <br>
   <br>
