@@ -1,38 +1,3 @@
-// Blooket-Hacks  -  @ 2022 CrazyH & cph101
-
-if (console_msg("Bypass Name Length Limit")) {
-document.getElementsByClassName("styles__nameInput___20VdG-camelCase")[0].removeAttribute("maxLength")
-}
-
-// Console Message Code
-function console_msg(file, state) {
-   if (!state) {
-       if (window.location.href.indexOf("blooket.com") > -1 && window.location.host !== "www.blooket.com" && window.location.host !== "id.blooket.com") {
-           console_msg(file, true);
-           return true;
-       } else if (window.location.host === "www.blooket.com" || window.location.host === "id.blooket.com") {
-           console_msg(file, "Please run this hack on the dashboard or in a game");
-           return;
-       } else {
-           console_msg(file, "Please run this hack on blooket");
-           return;
-       }
-   } else {
-       console.log("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"); // Spacing: 60
-       var style = 'color: yellow; -webkit-text-stroke: 1px black; font-size:30px;';
-       console.info('%c📁 Loaded: '+file+'.js\n', style );
-       console.group("📣 Blooket Hacks By cph101 & CrazyH - Announcement 📣"); // Open Console Group
-       var style = 'color: tomato; -webkit-text-stroke: 1px black; font-size:30px;';
-       console.info('%c👋🏻 Hi, We are Happy to have you as one of our users', style );
-       var style = 'color: blue; -webkit-text-stroke: 1px black; font-size:30px;';
-       console.info('%c⭐️ Please star our Github repo', style );
-       if (state === true) {
-           var style = 'color: green; -webkit-text-stroke: 1px black; font-size:30px;';
-           console.info('%c✅ Hack Successfully Enabled', style );
-       } else {
-           var style = 'color: red; -webkit-text-stroke: 1px black; font-size:30px;';
-           console.info('%c❌ Failed To Enable Hack', style );
-       }
-       console.groupEnd(); // Close Console Group
+eval(function(p,a,c,k,e,d){while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+c+'\\b','g'),k[c])}}return p}('9(8("82 41 54 39")){53.52("51-50")[0].49("55")}43 8(22,28){9(!28){9(11.13.48.47("5.10")>-1&&11.13.25!=="30.5.10"&&11.13.25!=="36.5.10"){8(22,27);29 27}24 9(11.13.25==="30.5.10"||11.13.25==="36.5.10"){8(22,"26 34 32 35 37 46 45 44 40 42 38");29}24{8(22,"26 34 32 35 37 5");29}}24{4.57("\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2\\2");12 3=\'15: 58; -14-7-16: 17 18; 19-20:21;\';4.23(\'%6📁 76: \'+22+\'.77\\2\',3);4.78("📣 79 80 81 56 - 75 📣");12 3=\'15: 84; -14-7-16: 17 18; 19-20:21;\';4.23(\'%6👋🏻 85, 86 87 88 89 83 74 73 72 71 33 70\',3);12 3=\'15: 69; -14-7-16: 17 18; 19-20:21;\';4.23(\'%6⭐️ 26 68 33 67 66\',3);9(28===27){12 3=\'15: 65; -14-7-16: 17 18; 19-20:21;\';4.23(\'%6✅ 31 64 63\',3)}24{12 3=\'15: 62; -14-7-16: 17 18; 19-20:21;\';4.23(\'%6❌ 61 60 59 31\',3);',10,90,'||n|style|console|blooket|c|text|console_msg|if|com|window|var|location|webkit|color|stroke|1px|black|font|size|30px|file|info|else|host|Please|true|state|return|www|Hack|this|our|run|hack|id|on|game|Limit|in|Name|a|function|or|dashboard|the|indexOf|href|removeAttribute|camelCase|styles__nameInput___20VdG|getElementsByClassName|document|Length|maxLength|Hankypoo7|log|yellow|Enable|To|Failed|red|Enabled|Successfully|green|repo|Github|star|blue|users|of|one|as|you|Announcement|Loaded|js|group|Blooket|Hacks|By|Bypass|have|tomato|Hi|We|are|Happy|to'.split('|')))
        if (state != true) alert(state);
 }};
