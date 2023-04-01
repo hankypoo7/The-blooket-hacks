@@ -1,34 +1,44 @@
 <div align="center"> <!-- don't remove this -->
-  <h1>Welcome to the Blooket Hack Compilation!</h1>
+  <h1>Welcome...</h1>
   <p>
-    Enjoy this page of many hacks!
+    Enjoy all of the Hacks👍
   </p>
   <br>
   <br>
   <br>
   <h2>Credits</h2>
-  <p>Thanks to all of you for helping make this possible! ❤️</p>
+<details open>
+<summary>Credits to</summary>
+<br>
+  
   <ul>
     <li><a href="https://github.com/therealgliz/blooket-hacks">glixzzy</a></li>
     <li><a href="https://github.com/qaiik/blkt-reader">qaiik</a></li>
     <li><a href="https://github.com/rxzyx/Blooket-Hacks">rxzyx</a></li>
     <li><a href="https://github.com/cph101/Blooket-Hacks">cph101</a></li>
-   
+    
+  <p>Thanks to all of you for helping make this possible! ❤️</p>
   </ul>
+</details>
+
+
+
   <br>
   <br>
   <br>
-  <h2>Issues | Contact Us</h2>
-  <p>Any issues should be quickly added to the Issues tab.<br>For less important things, move to the Discussions to avoid clutter.</p>
+  <h2>Issues??? | Contact Us</h2>
+  <p>Is there somthing wrong? make an issue and we will check it out for you, For less important things, move to the Discussions to avoid clutter.</p>
   <br>
   <br>
   <br>
-  <h2>Hack Usage | Hack Info</h2>
+  <h2>=======How to use=======</h2>
+  
   <p>For info on how to use each script, visit the <b><a href="https://github.com/Hankypoo7/The-blooket-hacks/wiki">wiki</a></b>.</p>
   <br>
   <br>
   <br>
   <h2>Possibilities of scripts</h2>
+  
   <p>
     I have have seen a lot of people talk about how someone should make something that is more than adding 500+ tokens.<br>
     We can not do that due to the Blooket API. The token limit is defined by the API, meaning adding 501 tokens would just ban your account.<br>
