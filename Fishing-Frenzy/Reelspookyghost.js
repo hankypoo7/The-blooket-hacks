@@ -8,10 +8,6 @@ if (console_msg("Reel in Spooky Ghost")) {
     window.prompt = n.contentWindow.prompt.bind(window);
     window.confirm = n.contentWindow.confirm.bind(window);
     n.remove();
-            function reactHandler() {
-                return Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner;
-            };
-        
             if (window.location.pathname != '/play/fishing') {
                 alert('You must be in a fishing frenzy game!');
             } else {
