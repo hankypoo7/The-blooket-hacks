@@ -6,13 +6,13 @@
     window.confirm = n.contentWindow.confirm.bind(window);
     n.remove();
             function reactHandler() {
-                return Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner;
+                return Object.values(document.querySelector('#app > div > div'))[1].children[0]._owner;
             };
         
             if (window.location.pathname == '/tower/battle' || window.location.pathname == '/tower/start') {
                 let data = reactHandler().stateNode.state;
                 if (data.phase != 'select') return alert('You must use this hack while you are starting a match or in one!');
-                reactHandler().stateNode.setState({ myCard: { ...data.myCard, strength: 100, charisma: 100, wisdom: 100 } })
+                reactHandler().stateNode.setState({ myCard: { blook: "Megalodon", strength: 1000, charisma: 1000, wisdom: 1000 } })
         
                 alert('Done!')
             } else {
