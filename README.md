@@ -5,15 +5,14 @@
     <br>
   Credits to the people who made most of the hacks:<br>
     <ul>
-      <li><a href="https://github.com/therealgliz/blooket-hacks">glixzzy</a></li>
-      <li><a href="https://github.com/qaiik/blkt-reader">qaiik</a></li>
-      <li><a href="https://github.com/rxzyx/Blooket-Hacks">rxzyx</a></li>
-      <li><a href="https://github.com/VillainsRule/BlooketMaster/tree/main/hacks
-">VillainsRule</a></li>
+      <li><a href="https://github.com/therealgliz">glixzzy</a></li>
+      <li><a href="https://github.com/qaiik">qaiik</a></li>
+      <li><a href="https://github.com/rxzyx">rxzyx</a></li>
+      <li><a href="https://github.com/VillainsRule">VillainsRule</a></li>
   </p>
   <br>
  <p align="center">
- <b>Important: If you have an issue, please report it in the Issues page.</b><br>
+ <b>Important: If you have an issue, please report it in the [Issues](https://github.com/Hankypoo7/The-blooket-hacks/issues) page.</b><br>
  
 <div align="center">
   <h1 align="center">Hack Usage</h1>
