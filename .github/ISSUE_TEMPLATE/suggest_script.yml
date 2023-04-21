@@ -1,0 +1,19 @@
+name: Suggest Script
+description: Suggest a cheat
+title: "IDEA"
+labels: ["enhancement"]
+body:
+  - type: input
+    id: gamemode
+    attributes:
+      label: Gamemode
+      description: Gamemode for the cheat
+      placeholder: Gamemode
+  - type: textarea
+    id: function
+    attributes:
+      label: Function
+      description: What does the script do?
+      placeholder: Script purpose
+    validations:
+      required: true
