@@ -27,7 +27,7 @@
   <br>
   <br>
   <h2>Issues??? | Contact Us</h2>
-  <p>Is there somthing wrong? make an (issue)[https://github.com/Hankypoo7/The-blooket-hacks/issues] and we will check it out for you, For less important things, move to the (Discussions)[https://github.com/Hankypoo7/The-blooket-hacks/discussions] to avoid clutter.</p>
+  <p>Is there somthing wrong? make an <a href="https://github.com/Hankypoo7/The-blooket-hacks/issues">Issue</a> and we will check it out for you, For less important things, move to the <a href="https://github.com/Hankypoo7/The-blooket-hacks/discussions">Discussions Page</a> to avoid clutter.</p>
   <br>
   <br>
   <br>
