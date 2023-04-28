@@ -20,7 +20,7 @@
     <li><a href="https://github.com/rxzyx">rxzyx</a></li>
     <li><a href="https://github.com/cph101">cph101</a></li>
     
-  <p>Thanks to all of you for helping make this possible! ❤️</p>
+  <p>Thanks to our contributers for helping out ❤️</p>
   </ul>
 </details>
 
@@ -30,15 +30,13 @@
   <br>
   <br>
   <h2>Issues??? | Contact Us</h2>
-  <p>Is there somthing wrong? make an <a href="https://github.com/Hankypoo7/The-blooket-hacks/issues">Issue</a> and we will check it out for you, For less important things, move to the <a href="https://github.com/Hankypoo7/The-blooket-hacks/discussions">Discussions Page</a> to avoid clutter.</p>
+  <p>Somthing wrong?!?! You should Make an <a href="https://github.com/Hankypoo7/The-blooket-hacks/issues">Issue</a> and we will check it out for you, For less important things, move to the <a href="https://github.com/Hankypoo7/The-blooket-hacks/discussions">Discussions Page</a> to avoid clutter!!</p>
   <br>
   <br>
   <br>
   <h2>=======How to use=======</h2>
   
   <p>For info on how to use each script, visit the <b><a href="https://github.com/Hankypoo7/The-blooket-hacks/wiki">wiki</a></b>.</p>
-  <br>
-  <br>
   <br>
   <h2>Possibilities of scripts</h2>
   
