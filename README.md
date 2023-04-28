@@ -34,7 +34,7 @@
   <br>
   <br>
   <br>
-  <h2>=======How to use=======</h2>
+  <h2>======= How to use =======</h2>
   
   <p>For info on how to use each script, visit the <b><a href="https://github.com/Hankypoo7/The-blooket-hacks/wiki">wiki</a></b>.</p>
   <br>
