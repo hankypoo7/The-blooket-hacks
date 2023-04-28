@@ -1,7 +1,10 @@
 <div align="center"> <!-- don't remove this -->
   <h1>Welcome...</h1>
   <p>
-    Enjoy all of the Hacks👍
+    Enjoy all of the Blooket Hacks👍
+  </p>
+  <p>
+    Dont forget to star!!! ⭐
   </p>
   <br>
   <br>
