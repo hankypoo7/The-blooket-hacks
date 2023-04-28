@@ -40,12 +40,10 @@
   <br>
   <h2>Possibilities of scripts</h2>
   
-</div>
-
-# ---
 ```
 I have have seen a lot of people talk about how someone should make something that is more than adding 500+ tokens.<br>
 We can not do that due to the Blooket API. The token limit is defined by the API, meaning adding 501 tokens would just ban your account.<br>
 There are some things you can't change without owning that website or having access to the database of the website.<br>
 A couple more examples of impossible scripts are changing box costs and adding all Blooks permanently. Please keep this in mind before asking for a script.<br>
 ```
+</div>
