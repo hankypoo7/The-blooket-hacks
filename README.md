@@ -17,7 +17,6 @@
   <ul>
     <li><a href="https://github.com/therealgliz">glixzzy</a></li>
     <li><a href="https://github.com/qaiik">qaiik</a></li>
-    <li><a href="https://github.com/rxzyx">rxzyx</a></li>
     <li><a href="https://github.com/Minesraft2">Minesraft2</a></li>
     
   <p>Thanks to our contributers for helping out ❤️</p>
