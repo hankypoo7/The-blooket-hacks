@@ -9,15 +9,14 @@
   <br>
   <br>
   <br>
+  <h3> I want to clear this up. There has been a lot of drama or whatever going around about "he stole my hacks" and "no you stole mine". Yes, I copied peoples and put them here. I intended to make a compilation, not take credit for things I didn't do. Yes, I will be working on this repo again, but this time I will have full permission or if the license allows me to compile them. Thanks, -Hankypoo7
   <h2>Credits</h2>
 <details open>
 <summary>Credits to</summary>
 <br>
   
   <ul>
-    <li><a href="https://github.com/therealgliz">glixzzy</a></li>
-    <li><a href="https://github.com/qaiik">qaiik</a></li>
-    <li><a href="https://github.com/Minesraft2">Minesraft2</a></li>
+<p> currently no one. </p>
     
   <p>Thanks to our contributers for helping out ❤️</p>
   </ul>
