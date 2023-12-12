@@ -6,14 +6,11 @@
 
 ---
 
-# This is a old repo @hankypoo7 made a year ago, he made it a template and deleted the contents of this repo... 
+## This is a old repo @hankypoo7 made a year ago, he made it a template and deleted the contents of this repo... 
 
-
-## I (@CPScript) added the contents back as he shouldn't have deleted them in the first place...
-## have fun "cheating" at school and pass your classes kids 👍
-
-
-* if you got a problem with this than cry about it skid
+> I added the contents back as he shouldn't have deleted them in the first place...
+> have fun "cheating" at school and pass your classes kids 👍
+** if you got a problem with this than cry about it skid **
 
 ---
 
