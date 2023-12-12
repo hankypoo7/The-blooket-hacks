@@ -1,6 +1,4 @@
-> note for **hankypoo7** | Lets go, you just got 400+ veiws on this repo in the past hour... you should reupload the scripts and start working on this repo more... also, can you shout out my kahoot hack repo??? (sry for asking) | from CPScript
-
-![Screenshot 2023-12-12 4 05 49 PM](https://github.com/hankypoo7/The-blooket-hacks/assets/83523587/96100821-c00c-4b98-93f6-701d06a820f4)
+> note for **hankypoo7** | Lets go, you just got 400+ veiws on this repo in the past hour... you should reupload the scripts and start working on this repo more...
 
 <div align=center>    
 
