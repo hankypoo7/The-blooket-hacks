@@ -1,5 +1,7 @@
 <div align=center>    
 
+# These hacks most likly dont work as they are outdated by 1 year and have probably been blocked by Blooket
+
 Follow **@CPScript**, **@Hankypoo7**, and **@Snowflake-Coder-H2o**
 | Because we made this lol |
 
