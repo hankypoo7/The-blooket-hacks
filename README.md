@@ -1,6 +1,7 @@
 <div align=center>    
+
 Follow **@CPScript**, **@Hankypoo7**, and **@Snowflake-Coder-H2o**
-|Because we made this lol|
+> Because we made this lol
 
 <div align=left>
 
@@ -9,7 +10,7 @@ Follow **@CPScript**, **@Hankypoo7**, and **@Snowflake-Coder-H2o**
 > This is a old repo @hankypoo7 made a year ago, he made it a template and deleted the contents of this repo... 
 > I added the contents back as he shouldn't have deleted them in the first place...
 > have fun "cheating" at school and pass your classes kids 👍
-** if you got a problem with this than cry about it skid **
+**if you got a problem with this than cry about it skid**
 
 ---
 
