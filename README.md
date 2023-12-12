@@ -1,8 +1,10 @@
-<div align=right>    
-    Follow CPScript
+<div align=center>    
+    Follow **@CPScript**, **@hankypoo7**, and **@Snowflake-Coder-H2o**
 </div>
 
 <div align=left>
+
+---
 
 # This is a old repo @hankypoo7 made a year ago, he made it a template and deleted the contents of this repo... 
 
