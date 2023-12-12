@@ -1,4 +1,19 @@
-# Blooket Hacks
+# This is a old repo @hankypoo7 made a year ago, he made it a template and deleted the contents of this repo... 
+
+## I (@CPScript) added the contents back as he shouldn't have deleted them in the first place...
+## have fun "cheating" at school and pass your classes kids 👍
+
+
+* if you got a problem with this than cry about it skid
+
+
+
+
+---------------------
+--- OLD README.md ---
+---------------------
+
+# OLD README
 Some of these hacks are from Gliz, aka Schoolcheats.net. I dont know which ones exactly but most are from Zastic and Snowflake.
 
 I have finnaly somewhat made a google site. But I will be updateing this whenever I get new hacks. [Site](https://sites.google.com/pasdknights.org/blooket-blacket-hacks/hacks-for-blooket)
