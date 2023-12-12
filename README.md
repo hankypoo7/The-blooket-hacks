@@ -1,7 +1,7 @@
 <div align=center>    
 
 Follow **@CPScript**, **@Hankypoo7**, and **@Snowflake-Coder-H2o**
-* Because we made this lol
+| Because we made this lol |
 
 <div align=left>
 
