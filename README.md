@@ -16,9 +16,7 @@ Follow **@CPScript**, **@Hankypoo7**, and **@Snowflake-Coder-H2o**
 
 <div align=center>
 
-# ---------------------
 # --- OLD README.md ---
-# ---------------------
 
 <div align=left>
 
