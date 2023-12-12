@@ -1,6 +1,6 @@
 <div align=center>    
-    Follow **@CPScript**, **@hankypoo7**, and **@Snowflake-Coder-H2o**
-</div>
+Follow **@CPScript**, **@Hankypoo7**, and **@Snowflake-Coder-H2o**
+|Because we made this lol|
 
 <div align=left>
 
