@@ -17,7 +17,7 @@ Follow **@CPScript**, **@Hankypoo7**, and **@Snowflake-Coder-H2o**
 ### reason why it was taken down:
 > hankypoo7 was threatend a "DMCA" by **@VillainsRule**
 ### Anyways...
-> A DMCA on **@hankypoo7** wouldn't have any effect as the **@Minesraft2** "Blooket-Hacks" repo was open source also the **Minesraft2** "Blooket-Hacks" Repo never had a licence that said you couldn't reuse the code... anyways, i removed the "Minesraft2" scripts so it should be better ig idfk, yall kids are weird
+> A DMCA on **@hankypoo7** wouldn't have any effect as the **@Minesraft2** "Blooket-Hacks" repo was open source. Also the **Minesraft2** "Blooket-Hacks" Repo never had a licence that said you couldn't reuse the code... anyways, i removed the "Minesraft2" scripts so it should be better ig idfk, yall kids are weird
 
 ---
 
