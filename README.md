@@ -19,7 +19,7 @@ Follow **@CPScript**, **@Hankypoo7**, and **@Snowflake-Coder-H2o**
 ### Anyways...
 > A DMCA on **@hankypoo7** wouldn't have any effect as the **@Minesraft2** "Blooket-Hacks" repo was open source. Also the **Minesraft2** "Blooket-Hacks" Repo never had a licence that said you couldn't reuse the code... anyways, i removed the "Minesraft2" scripts so there should be no drama ig... idfk, yall kids are weird
 ### STILL...
-**if you got a problem, cry about it skid**
+**if you got a problem with this than cry about it skid**
 
 
 ---
