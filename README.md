@@ -10,16 +10,16 @@ Follow **@CPScript**, **@Hankypoo7**, and **@Snowflake-Coder-H2o**
 > This is a old repo @hankypoo7 made a year ago, he made it a template and deleted the contents of this repo... 
 > I added the contents back as he shouldn't have deleted them in the first place...
 > have fun "cheating" at school and pass your classes kids 👍
-**if you got a problem with this than cry about it skid**
+**If you got a problem with this than cry about it skid**
 
 ---
 
-### reason why it was taken down:
-> hankypoo7 was threatend a "DMCA" by **@VillainsRule**
+### Reason why it was taken down:
+> **@Hankypoo7** was threatend a "DMCA" by **@VillainsRule**
 ### Anyways...
 > A DMCA on **@hankypoo7** wouldn't have any effect as the **@Minesraft2** "Blooket-Hacks" repo was open source. Also the **Minesraft2** "Blooket-Hacks" Repo never had a licence that said you couldn't reuse the code... anyways, i removed the "Minesraft2" scripts so there should be no drama ig... idfk, yall kids are weird
 ### STILL...
-**if you got a problem with this than cry about it skid**
+**If you got a problem with this than cry about it skid**
 
 
 ---
