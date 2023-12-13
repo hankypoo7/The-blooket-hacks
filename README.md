@@ -1,5 +1,3 @@
-> note for **hankypoo7** | Lets go, you just got 600+ veiws on this repo in the past hour... you should reupload the scripts and start working on this repo more...
-
 <div align=center>    
 
 # These hacks most likly dont work as they are outdated by 1 year and have probably been blocked by Blooket. 
